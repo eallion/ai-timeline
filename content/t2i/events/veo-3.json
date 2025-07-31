@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2025,
+    "month": 5,
+    "day": 20
+  },
+  "text": {
+    "headline": "Veo 3",
+    "text": "Google DeepMind开发的视频生成模型，还可以原生生成声音和语音。首个具备这些一体化功能的模型，Veo 3允许使用图像参考生成视频，可在Google的服务如Flow和Gemini聊天界面中使用。"
+  },
+  "media": {
+    "url": "https://deepmind.google/api/blob/website/media/us_wm_veo_3_a-medium-shot-frames-an-old-sailor-his-knitted-blue-sailor-hat_LLpQrIw.mp4",
+    "credit": "<a href=\"https://deepmind.google/models/veo/\">媒体来源</a>",
+    "caption": "<a href=\"https://deepmind.google/models/veo/\">网站</a>, <a href=\"https://storage.googleapis.com/deepmind-media/Model-Cards/Veo-3-Model-Card.pdf\">模型卡</a>",
+    "thumbnail": "https://deepmind.google/api/blob/website/media/us_wm_veo_3_a-medium-shot-frames-an-old-sailor-his-knitted-blue-sailor-hat_LLpQrIw.mp4"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#4388f0"
+  }
+}

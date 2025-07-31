@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2024,
+    "month": 10,
+    "day": 10
+  },
+  "text": {
+    "headline": "Pyramid Flow",
+    "text": "基于Flow Matching的开源自回归视频生成方法。仅在开源数据集上训练。"
+  },
+  "media": {
+    "url": "https://pyramid-flow.github.io/static/videos/t2v_10s/tokyo.mp4",
+    "credit": "<a href=\"https://pyramid-flow.github.io/\">媒体来源</a>",
+    "caption": "<a href=\"https://pyramid-flow.github.io/\">网站</a>, <a href=\"https://arxiv.org/abs/2410.05954\">论文</a>, <a href=\"https://github.com/jy0205/Pyramid-Flow\">GitHub</a>, <a href=\"https://huggingface.co/spaces/Pyramid-Flow/pyramid-flow\">演示</a>",
+    "thumbnail": "https://pyramid-flow.github.io/static/videos/t2v_10s/tokyo.mp4"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#c66d36"
+  }
+}

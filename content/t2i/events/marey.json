@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2025,
+    "month": 7,
+    "day": 8
+  },
+  "text": {
+    "headline": "Marey",
+    "text": "由Moonvalley和Asteria Film开发的仅使用授权数据训练的生成视频模型。首批不使用未经同意数据收集进行训练的视频模型之一。作为封闭模型，它具有多种控制功能，如姿态控制、风格转换、图像参考和起始-结束帧。仅通过其付费计划提供。该模型之前在3月曾预告，7月正式发布。"
+  },
+  "media": {
+    "url": "https://framerusercontent.com/assets/F5sGTAVmqMYWMGJtkSBudaZyg.mp4",
+    "credit": "<a href=\"https://www.moonvalley.com/\">媒体来源</a>",
+    "caption": "<a href=\"https://www.moonvalley.com/\">网站</a>, <a href=\"https://www.moonvalley.com/beyondtheframe/our-vision-for-generative-video\">博客文章</a>",
+    "thumbnail": "https://framerusercontent.com/assets/boCxZxT4qkyvmIr0BJdam9HfOYQ.mp4"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#000000"
+  }
+}

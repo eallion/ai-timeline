@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2025,
+    "month": 1,
+    "day": 25
+  },
+  "text": {
+    "headline": "Lumina Image 2.0",
+    "text": "精通英语和简体中文的多功能图像生成模型，能够在图像中生成连贯文本，并可与ControlNet模型配合使用。"
+  },
+  "media": {
+    "url": "https://stable-diffusion-art.com/wp-content/uploads/2025/02/image-39.png",
+    "credit": "<a href=\"https://stable-diffusion-art.com/lumina/\">媒体来源</a>",
+    "caption": "<a href=\"https://github.com/Alpha-VLLM/Lumina-Image-2.0?tab=readme-ov-file\">GitHub</a>, <a href=\"https://huggingface.co/Alpha-VLLM/Lumina-Image-2.0\">HuggingFace</a>",
+    "thumbnail": "https://stable-diffusion-art.com/wp-content/uploads/2025/02/image-39.png"
+  },
+  "group": “Diffusion Model",
+  "background": {
+    "color": "#ff6208"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2024,
+    "month": 12,
+    "day": 16
+  },
+  "text": {
+    "headline": "Veo 2",
+    "text": "Google DeepMind开发的视频生成模型，在质量、提示词遵循和因果关系方面超越其他视频模型。目前仅通过VideoFX的封闭等待列表或在Fal等不同网站付费使用。"
+  },
+  "media": {
+    "url": "https://deepmind.google/api/blob/website/media/WM_141324283_12_video_0.webm",
+    "credit": "<a href=\"https://deepmind.google/api/blob/website/media/WM_141324283_12_video_0.webm\">媒体来源</a>",
+    "caption": "<a href=\"https://deepmind.google/technologies/veo/veo-2/\">网站</a>, <a href=\"https://blog.google/technology/google-labs/video-image-generation-update-december-2024/\">博客文章</a>",
+    "thumbnail": "https://deepmind.google/api/blob/website/media/WM_141324283_12_video_0.webm"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#4388f0"
+  }
+}

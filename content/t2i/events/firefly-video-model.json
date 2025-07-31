@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2024,
+    "month": 9,
+    "day": 11
+  },
+  "text": {
+    "headline": "Firefly Video Model",
+    "text": "Adobe开发的文本到视频模型。目前尚未发布，只能通过加入等待列表。这是一个商业安全的模型，不同之处在于它还能生成与图像在风格上相似的视频，将来还会集成到Adobe Premiere中。"
+  },
+  "media": {
+    "url": "https://techcrunch.com/wp-content/uploads/2024/09/cinematic-closeup-and-detailed-portrait-of-a-reindeer-in-a-snowy-forest-at-sunset.-the-lighting-is-cinematic-and-gorgeous-and-soft-and-sun-kissed-with-golden-backlight-and-dreamy-bokeh-and-lens-flares.mp4",
+    "credit": "<a href=\"https://techcrunch.com/2024/09/11/adobe-says-video-generation-is-coming-to-firefly-this-year/\">媒体来源</a>",
+    "caption": "<a href=\"https://blog.adobe.com/en/publish/2024/09/11/bringing-gen-ai-to-video-adobe-firefly-video-model-coming-soon\">博客</a>",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/09/cinematic-closeup-and-detailed-portrait-of-a-reindeer-in-a-snowy-forest-at-sunset.-the-lighting-is-cinematic-and-gorgeous-and-soft-and-sun-kissed-with-golden-backlight-and-dreamy-bokeh-and-lens-flares.mp4"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#fa1000"
+  }
+}

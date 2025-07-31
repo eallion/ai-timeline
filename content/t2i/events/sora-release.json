@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2024,
+    "month": 12,
+    "day": 9
+  },
+  "text": {
+    "headline": "Sora (发布)",
+    "text": "OpenAI早在2月就宣布的视频生成扩散模型。迄今为止最受期待的视觉生成模型，通过20美元或200美元订阅提供。发布版本是之前模型的turbo版本。虽然与大多数其他视频模型类似，但其故事板界面是首创，允许对一个动作接一个动作进行关键帧设置，并无缝融合两个视频。"
+  },
+  "media": {
+    "url": "https://bgr.com/wp-content/uploads/2024/12/OpenAI-Sora.jpg?quality=82",
+    "credit": "<a href=\"https://bgr.com/tech/openai-finally-releases-ai-video-generator-sora-to-the-public/\">媒体来源</a>",
+    "caption": "<a href=\"https://openai.com/sora\">网站</a>, <a href=\"https://openai.com/index/sora-is-here/\">博客文章</a>, <a href=\"https://openai.com/index/sora-system-card/\">系统卡</a>",
+    "thumbnail": "https://bgr.com/wp-content/uploads/2024/12/OpenAI-Sora.jpg?quality=82"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#4c46f0"
+  }
+}

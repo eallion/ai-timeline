@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2024,
+    "month": 10,
+    "day": 30
+  },
+  "text": {
+    "headline": "PD12M",
+    "text": "包含1240万张公共领域和CC0许可图像及合成标题的数据集。迄今为止最大的公共领域图像-文本数据集，规模足以训练基础模型，同时最大化减少版权问题。由Spawning（\"Have I Been Trained\"背后的公司）创建。"
+  },
+  "media": {
+    "url": "https://a-us.storyblok.com/f/1012441/1600x800/d905fee389/public-diffusion-collage.jpg",
+    "credit": "<a href=\"https://source.plus/\">媒体来源</a>",
+    "caption": "<a href=\"https://source.plus/\">网站</a>, <a href=\"https://arxiv.org/abs/2410.23144\">论文</a>, <a href=\"https://huggingface.co/datasets/Spawning/PD12M\">HuggingFace</a>",
+    "thumbnail": "https://a-us.storyblok.com/f/1012441/1600x800/d905fee389/public-diffusion-collage.jpg"
+  },
+  "group": “Dataset",
+  "background": {
+    "color": "#DF7A31"
+  }
+}

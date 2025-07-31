@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2024,
+    "month": 9,
+    "day": 1
+  },
+  "text": {
+    "headline": "Hailuo AI",
+    "text": "由创业公司MiniMax开发的文本到视频模型，可在其网站上使用。相比之前的视频生成模型有明显升级，在灵活性和提示词遵循方面表现出色。"
+  },
+  "media": {
+    "url": "https://cdn.mos.cms.futurecdn.net/vY7UvKfqeJA9h4zDA5q8Ni-1200-80.gif",
+    "credit": "<a href=\"https://www.tomsguide.com/ai/ai-image-video/forget-sora-minimax-is-a-new-realistic-ai-video-generator-and-it-is-seriously-impressive\">媒体来源</a>",
+    "caption": "<a href=\"https://hailuoai.video/\">网站</a>",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/vY7UvKfqeJA9h4zDA5q8Ni-1200-80.gif"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#051418"
+  }
+}

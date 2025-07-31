@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2025,
+    "month": 2,
+    "day": 18
+  },
+  "text": {
+    "headline": "SkyReels V1",
+    "text": "通过在高质量影视片段大数据集上微调Hunyuan视频模型创建的视频生成模型。"
+  },
+  "media": {
+    "url": "https://private-user-images.githubusercontent.com/82783347/412786663-2dbd116a-033d-4f7e-bd90-78a3da47cd9c.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM0MzQ1OTAsIm5iZiI6MTc0MzQzNDI5MCwicGF0aCI6Ii84Mjc4MzM0Ny80MTI3ODY2NjMtMmRiZDExNmEtMDMzZC00ZjdlLWJkOTAtNzhhM2RhNDdjZDljLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzMxVDE1MTgxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEzYTYwZGFkMDViMjM1ODdhN2E0N2NiZjVhNTdjYzMzNGI2YjVmNTk0OWRkN2QxY2FmNTI5MmEwOTJmZTY4MWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.UzCD7ayMn0djIGFLJ6yWtR2SsQhGPN9_psov2MKC9zA",
+    "credit": "<a href=\"https://github.com/SkyworkAI/SkyReels-V1/blob/main/README.md\">媒体来源</a>",
+    "caption": "<a href=\"https://github.com/SkyworkAI/SkyReels-V1?tab=readme-ov-file\">GitHub</a>, <a href=\"https://huggingface.co/Skywork/SkyReels-V1-Hunyuan-T2V\">HuggingFace</a>, <a href=\"https://www.skyreels.ai/home?utm_campaign=huggingface_V1_t2v\">网站</a>",
+    "thumbnail": "https://private-user-images.githubusercontent.com/82783347/412786663-2dbd116a-033d-4f7e-bd90-78a3da47cd9c.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM0MzQ1OTAsIm5iZiI6MTc0MzQzNDI5MCwicGF0aCI6Ii84Mjc4MzM0Ny80MTI3ODY2NjMtMmRiZDExNmEtMDMzZC00ZjdlLWJkOTAtNzhhM2RhNDdjZDljLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzMxVDE1MTgxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEzYTYwZGFkMDViMjM1ODdhN2E0N2NiZjVhNTdjYzMzNGI2YjVmNTk0OWRkN2QxY2FmNTI5MmEwOTJmZTY4MWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.UzCD7ayMn0djIGFLJ6yWtR2SsQhGPN9_psov2MKC9zA"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#e5c314"
+  }
+}

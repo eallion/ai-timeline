@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2024,
+    "month": 10,
+    "day": 30
+  },
+  "text": {
+    "headline": "Recraft v3",
+    "text": "发布时最好的图像生成器之一，由Recraft创建，该公司自称为专业设计师AI公司。该模型能够生成非常长的连贯文本，最重要的是能生成SVG图像。仅通过其网站和API提供。"
+  },
+  "media": {
+    "url": "https://cdn.prod.website-files.com/655741af3f04e006606d26ad/6722a4e02cb3fd04911494e0_jpg-16-p-1080.jpg",
+    "credit": "<a href=\"https://www.recraft.ai/blog/recraft-introduces-a-revolutionary-ai-model-that-thinks-in-design-language\">媒体来源</a>",
+    "caption": "<a href=\"https://www.recraft.ai/blog/recraft-introduces-a-revolutionary-ai-model-that-thinks-in-design-language\">博客文章</a>",
+    "thumbnail": "https://cdn.prod.website-files.com/655741af3f04e006606d26ad/6722a4e02cb3fd04911494e0_jpg-16-p-1080.jpg"
+  },
+  "group": “Diffusion Model",
+  "background": {
+    "color": "#ff5b00"
+  }
+}

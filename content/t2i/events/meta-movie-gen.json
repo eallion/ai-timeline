@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2024,
+    "month": 10,
+    "day": 4
+  },
+  "text": {
+    "headline": "Meta Movie Gen",
+    "text": "Meta开发的视频生成模型，可从文本创建视频、编辑现有视频，并通过人脸输入将人物放入生成的场景中。目前尚未发布。"
+  },
+  "media": {
+    "url": "https://media.wired.com/clips/66ff6ba6967e31bbf220c2f7/master/pass/Comp%201%20copy%202.mp4",
+    "credit": "<a href=\"https://www.wired.com/story/meta-movie-gen-ai-model/\">媒体来源</a>",
+    "caption": "<a href=\"https://ai.meta.com/research/movie-gen/\">网站</a>, <a href=\"https://ai.meta.com/static-resource/movie-gen-research-paper\">论文</a>, <a href=\"https://ai.meta.com/blog/movie-gen-media-foundation-models-generative-ai-video/\">博客文章</a>",
+    "thumbnail": "https://media.wired.com/clips/66ff6ba6967e31bbf220c2f7/master/pass/Comp%201%20copy%202.mp4"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#285abd"
+  }
+}

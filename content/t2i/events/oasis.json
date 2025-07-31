@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2024,
+    "month": 10,
+    "day": 31
+  },
+  "text": {
+    "headline": "Oasis",
+    "text": "基于实时用户输入生成下一帧的交互式视频生成模型。演示版本在Minecraft游戏视频和键盘输入上训练。首个此类开源交互式实时视频生成模型。"
+  },
+  "media": {
+    "url": "https://oasis-model.github.io/wide1.mp4",
+    "credit": "<a href=\"https://oasis-model.github.io/\">媒体来源</a>",
+    "caption": "<a href=\"https://www.decart.ai/articles/oasis-interactive-ai-video-game-model\">博客文章</a>, <a href=\"https://github.com/etched-ai/open-oasis\">GitHub</a>, <a href=\"https://huggingface.co/Etched/oasis-500m\">HuggingFace</a>, <a href=\"https://oasis.decart.ai/starting-point\">演示</a>",
+    "thumbnail": "https://oasis-model.github.io/wide1.mp4"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#1436f5"
+  }
+}

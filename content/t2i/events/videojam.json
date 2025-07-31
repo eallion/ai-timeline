@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2025,
+    "month": 2,
+    "day": 4
+  },
+  "text": {
+    "headline": "VideoJAM",
+    "text": "Meta开发的框架，为任何视频生成模型注入强烈的运动先验，通过增强模型运动的真实感来提升效果。"
+  },
+  "media": {
+    "url": "https://hila-chefer.github.io/videojam-paper.github.io/assets/our_results_labeled/A_ballet_dancer_twirls_on_the_surface_of_a_still_lake,_the_golden_sunset_casting_warm_hues..mp4",
+    "credit": "<a href=\"https://hila-chefer.github.io/videojam-paper.github.io/\">媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/2502.02492\">论文</a>, <a href=\"https://hila-chefer.github.io/videojam-paper.github.io/\">GitHub</a>",
+    "thumbnail": "https://hila-chefer.github.io/videojam-paper.github.io/assets/our_results_labeled/A_ballet_dancer_twirls_on_the_surface_of_a_still_lake,_the_golden_sunset_casting_warm_hues..mp4"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#285abd"
+  }
+}

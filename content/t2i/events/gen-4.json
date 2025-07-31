@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2025,
+    "month": 3,
+    "day": 31
+  },
+  "text": {
+    "headline": "Gen-4",
+    "text": "Runway视频模型的第四代。相比前代产品，具有更强的提示词遵循能力和运动灵活性。与Runway的图像生成器Frames结合使用，现在可以使用参考图像来组合和生成新视频。"
+  },
+  "media": {
+    "url": "https://d3phaj0sisr2ct.cloudfront.net/site/content/videos/gen4/Footer.webm",
+    "credit": "<a href=\"https://runwayml.com/gen-4-bts\">媒体来源</a>",
+    "caption": "<a href=\"https://runwayml.com/research/introducing-runway-gen-4\">网站</a>",
+    "thumbnail": "https://d3phaj0sisr2ct.cloudfront.net/site/content/videos/gen4/Footer.webm"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#4640f5"
+  }
+}

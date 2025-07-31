@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2025,
+    "month": 3,
+    "day": 25
+  },
+  "text": {
+    "headline": "4o Image Generation",
+    "text": "原生嵌入ChatGPT的自回归模型。OpenAI的图像模型DALLE 3的继任者，在提示词遵循、长文本准确性和图像到图像功能方面表现出色。通过ChatGPT界面或Sora网站提供。"
+  },
+  "media": {
+    "url": "https://images.ctfassets.net/kftzwdyauwt9/5msykBd6Wu5mBcTgoqeJkj/4481c11698ff69f3d44d4c6220fade12/hero_image_1-whiteboard1.png?w=828&q=90&fm=webp",
+    "credit": "<a href=\"https://openai.com/index/introducing-4o-image-generation/\">媒体来源</a>",
+    "caption": "<a href=\"https://openai.com/index/introducing-4o-image-generation/\">博客文章</a>, <a href=\"https://cdn.openai.com/11998be9-5319-4302-bfbf-1167e093f1fb/Native_Image_Generation_System_Card.pdf\">系统卡</a>",
+    "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/5msykBd6Wu5mBcTgoqeJkj/4481c11698ff69f3d44d4c6220fade12/hero_image_1-whiteboard1.png?w=828&q=90&fm=webp"
+  },
+  "group": “Diffusion Model",
+  "background": {
+    "color": "#4c46f0"
+  }
+}

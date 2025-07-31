@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2025,
+    "month": 6,
+    "day": 12
+  },
+  "text": {
+    "headline": "Seedance 1.0",
+    "text": "字节跳动开发的视频生成模型，据说具有与Veo 3相同的功能，但生成成本更低。一个显著特点是可以轻松创建多镜头生成。"
+  },
+  "media": {
+    "url": "https://d2g64w682n9w0w.cloudfront.net/media/videos/1750084389819163030_cPqmieb6.mp4",
+    "credit": "<a href=\"https://wavespeed.ai/models/bytedance/seedance-v1-pro-i2v-720p\">媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/pdf/2506.09113\">论文</a>, <a href=\"https://seed.bytedance.com/en/seedance\">网站</a>",
+    "thumbnail": "https://d2g64w682n9w0w.cloudfront.net/media/videos/1750084389819163030_cPqmieb6.mp4"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#3158B2"
+  }
+}

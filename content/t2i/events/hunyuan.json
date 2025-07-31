@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2024,
+    "month": 12,
+    "day": 3
+  },
+  "text": {
+    "headline": "Hunyuan",
+    "text": "腾讯发布的开源视频生成模型，是该公司首个此类模型。生成过程较长，但迄今为止拥有最佳的开源视频生成效果。"
+  },
+  "media": {
+    "url": "https://aivideo.hunyuan.tencent.com/movie/part-5/part-5-4.mp4",
+    "credit": "<a href=\"https://aivideo.hunyuan.tencent.com/\">媒体来源</a>",
+    "caption": "<a href=\"https://aivideo.hunyuan.tencent.com/\">网站</a>, <a href=\"https://huggingface.co/tencent/HunyuanVideo\">HuggingFace</a>, <a href=\"https://github.com/Tencent/HunyuanVideo\">GitHub</a>",
+    "thumbnail": "https://aivideo.hunyuan.tencent.com/movie/part-5/part-5-4.mp4"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#7f59e6"
+  }
+}

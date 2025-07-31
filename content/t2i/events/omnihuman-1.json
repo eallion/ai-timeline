@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2025,
+    "month": 2,
+    "day": 3
+  },
+  "text": {
+    "headline": "OmniHuman-1",
+    "text": "字节跳动开发的专门制作逼真角色唇同步和动作的视频生成模型。允许图像和音频输入，该模型致力于生成自然的人类唇同步和相应的身体动作。"
+  },
+  "media": {
+    "url": "https://omnihuman-lab.github.io/video/main2.mp4",
+    "credit": "<a href=\"https://omnihuman-lab.github.io\">媒体来源</a>",
+    "caption": "<a href=\"https://arxiv.org/abs/2502.01061\">论文</a>, <a href=\"https://omnihuman-lab.github.io/\">GitHub</a>",
+    "thumbnail": "https://omnihuman-lab.github.io/video/main2.mp4"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#3158B2"
+  }
+}

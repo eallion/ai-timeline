@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2024,
+    "month": 12,
+    "day": 9
+  },
+  "text": {
+    "headline": "Aurora",
+    "text": "xAI开发的图像生成模型，在Grok 2上可用，拥有X（原Twitter）账号的所有人都可使用。在生成名人准确图像方面表现出色，且无限制。"
+  },
+  "media": {
+    "url": "https://x.ai/_next/image?url=%2Fimages%2Flegacy%2Faurora%2Fcomparisons%2Fcybertruck%2Faurora.webp&w=1920&q=75",
+    "credit": "<a href=\"https://x.ai/blog/grok-image-generation-release\">媒体来源</a>",
+    "caption": "<a href=\"https://x.ai/blog/grok-image-generation-release\">博客文章</a>",
+    "thumbnail": "https://x.ai/_next/image?url=%2Fimages%2Flegacy%2Faurora%2Fcomparisons%2Fcybertruck%2Faurora.webp&w=1920&q=75"
+  },
+  "group": “Diffusion Model",
+  "background": {
+    "color": "#000000"
+  }
+}
