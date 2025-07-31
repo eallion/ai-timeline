@@ -1,0 +1,21 @@
+{
+  "start_date": {
+    "year": 2025,
+    "month": 7,
+    "day": 28
+  },
+  "text": {
+    "headline": "Wan2.2",
+    "text": "Wan2.2，阿里巴巴发布的开源视频生成模型，是 Wan 基础视频模型的重大升级。"
+  },
+  "media": {
+    "url": "https://cdn.wanxai.com/static/demo-wan22/top.mp4",
+    "credit": "<a href=\"https://github.com/Wan-Video/Wan2.2/\">媒体来源</a>",
+    "caption": "<a href=\"https://github.com/Wan-Video/Wan2.2/\">GitHub</a>, <a href=\"https://huggingface.co/Wan-AI\">HuggingFace</a>, <a href=\"https://wan.video/\">网站</a>",
+    "thumbnail": "https://cdn.wanxai.com/static/demo-wan22/top.mp4"
+  },
+  "group": "Text-To-Video",
+  "background": {
+    "color": "#5e4bf6"
+  }
+}
